@@ -27,4 +27,4 @@ Build a static personal portfolio for `yukobayashi0811.github.io`, publishable f
 - No public contact URL was supplied; show a clearly marked placeholder rather than a nonfunctional contact action.
 - The reference site is a visual preference, not a source of your personal information or content.
 
-**Approval needed before building:** This plan changes the project from its current app scaffold into a root-level Jekyll repository. Please approve the plan (or tell me what to change).
+Approved and built as a root-level Jekyll repository. The original app scaffold was removed.

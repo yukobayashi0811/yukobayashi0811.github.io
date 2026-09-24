@@ -1,0 +1,20 @@
+title: "Portfolio"
+description: "Full-time MBA Candidate at Berkeley Haas ’27 with company sponsorship from Norinchukin Bank."
+url: "https://yukobayashi0811.github.io"
+baseurl: ""
+lang: en
+timezone: America/Los_Angeles
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - PLAN.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
