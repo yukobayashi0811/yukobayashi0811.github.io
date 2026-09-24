@@ -9,7 +9,7 @@ Build a static personal portfolio for `yukobayashi0811.github.io`, publishable f
 - Classic, understated, light-only visual direction inspired by the classic feel of https://shinnoguchiphotography.com/.
 - A responsive single-column layout, semantic HTML, accessible contrast, and restrained typography.
 - Four Markdown pages: Home, About, Work Experience, and Contact; shared navigation and footer.
-- Use only the supplied fact: “Full-time MBA Candidate at Berkeley Haas ’27 with company sponsorship from Norinchukin Bank.” Do not invent roles, achievements, projects, dates, or metrics.
+- Use only the approved public bio: “Full-time MBA Candidate at Berkeley Haas ’27.” Do not invent roles, achievements, projects, dates, or metrics.
 - Mark missing biography, detailed experience, and contact destination clearly as placeholders. Do not publish an email address or add a `mailto:` link.
 
 ## Implementation

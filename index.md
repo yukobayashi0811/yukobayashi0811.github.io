@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: "Full-time MBA Candidate at Berkeley Haas ’27 with company sponsorship from Norinchukin Bank."
+description: "Full-time MBA Candidate at Berkeley Haas ’27."
 permalink: /
 ---
 
@@ -16,7 +16,7 @@ A personal portfolio
 [name placeholder]
 {: .placeholder-note }
 
-Full-time MBA Candidate at Berkeley Haas ’27 with company sponsorship from Norinchukin Bank.
+Full-time MBA Candidate at Berkeley Haas ’27.
 {: .lead }
 
 This space is a brief introduction to my background and work. More details will be added as they become available.

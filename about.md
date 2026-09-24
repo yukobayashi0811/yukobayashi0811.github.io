@@ -12,7 +12,7 @@ permalink: /about/
 
 # About
 
-Full-time MBA Candidate at Berkeley Haas ’27 with company sponsorship from Norinchukin Bank.
+Full-time MBA Candidate at Berkeley Haas ’27.
 {: .lead }
 
 </header>
