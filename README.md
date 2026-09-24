@@ -4,9 +4,9 @@ A static Jekyll portfolio for **https://yukobayashi0811.github.io**. GitHub Page
 
 ## Before publishing
 
-1. Replace **`Your Name [name placeholder]`** in `index.md` with your display name.
-2. Replace the bracketed placeholders in `about.md`, `work-experience.md`, and `contact.md` with your own verified words and a public contact destination you want to share. No email address is included.
-3. Optionally update `title` and `description` in `_config.yml` once you have approved the public copy.
+1. Review the supplied name, Home introduction, and biography in `index.md` and `about.md` before publishing.
+2. Replace the bracketed placeholders in `work-experience.md` and `contact.md` with your own verified words and a public contact destination you want to share. No email address is included.
+3. Optionally update `title` and `description` in `_config.yml` if the public copy changes.
 
 Do not leave placeholder text on a public portfolio unless you want visitors to see it.
 
@@ -40,6 +40,6 @@ After publishing or while serving locally, open Chrome DevTools → **Lighthouse
 
 ## Assumptions
 
-- The supplied MBA and sponsorship line is the only approved personal biography so far.
-- The owner has not supplied a public display name, experience details, or contact URL; these remain explicitly marked.
+- The name and biography on Home and About reflect the supplied content; no employer or sponsoring organization is named.
+- Detailed Work Experience entries and a contact URL have not been supplied; these remain explicitly marked as placeholders.
 - The reference photography site informs the classic feel only; no text, images, or personal details are copied from it.

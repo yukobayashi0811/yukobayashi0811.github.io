@@ -1,5 +1,5 @@
-title: "Portfolio"
-description: "Full-time MBA Candidate at Berkeley Haas ’27."
+title: "Yu Kobayashi"
+description: "Full-time MBA Candidate at Berkeley Haas ’27 interested in venture investing and agricultural technology."
 url: "https://yukobayashi0811.github.io"
 baseurl: ""
 lang: en
@@ -15,6 +15,7 @@ plugins:
 exclude:
   - README.md
   - PLAN.md
+  - Change1.md
   - Gemfile
   - Gemfile.lock
   - vendor
