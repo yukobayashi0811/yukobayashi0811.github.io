@@ -22,8 +22,23 @@ A place for my professional experience and the work that has shaped it.
 ## Professional history
 {: #experience-title }
 
-[Placeholder: Add your verified roles, employers, dates, responsibilities, and achievements here. The supplied information does not include a work history.]
-{: .placeholder }
+### Japanese Financial Institution
+
+Tokyo, Japan
+
+#### Manager | Asset Allocator
+
+October 2021 – July 2025
+
+#### Associate | Quantitative Analyst
+
+October 2018 – September 2021
+
+#### Associate | Risk Analyst
+
+April 2017 – September 2018
+
+Across these roles, Yu worked in asset allocation, quantitative analysis, and financial risk management. His responsibilities included market analysis, investment policy development, portfolio management, budget-versus-actual analysis, financial simulations, and recommendations to senior management. He also developed portfolio analysis systems and asset allocation models.
 
 </section>
 

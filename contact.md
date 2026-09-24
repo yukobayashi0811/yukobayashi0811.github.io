@@ -22,10 +22,7 @@ Thank you for visiting.
 ## Connect
 {: #connect-title }
 
-[Placeholder: Add a public contact or professional profile link that you would like visitors to use. No contact destination has been provided.]
-{: .placeholder }
-
-There is no public email address or contact form on this site.
+For professional inquiries, connect with Yu on [LinkedIn](https://www.linkedin.com/in/yu-kobayashi-52a82a2a5/).
 
 </section>
 
