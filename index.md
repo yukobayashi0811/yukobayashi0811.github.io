@@ -23,7 +23,7 @@ Yu has more than eight years of experience in asset allocation, quantitative ana
 
 </section>
 
-<section class="home-section" aria-labelledby="explore-title" markdown="1">
+<section class="home-section" aria-labelledby="explore-title">
 
   <div class="section-heading">
     <span class="section-number" aria-hidden="true">01 / Explore</span>
