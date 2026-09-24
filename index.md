@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: "Full-time MBA Candidate at Berkeley Haas ’27."
+description: "Yu Kobayashi is a full-time MBA Candidate at Berkeley Haas ’27 interested in venture investing and agricultural technology."
 permalink: /
 ---
 
@@ -10,16 +10,13 @@ permalink: /
 A personal portfolio
 {: .eyebrow }
 
-# Your Name
+# Yu Kobayashi
 {: #intro-title }
 
-[name placeholder]
-{: .placeholder-note }
-
-Full-time MBA Candidate at Berkeley Haas ’27.
+Full-time MBA Candidate at Berkeley Haas ’27 interested in venture investing and agricultural technology.
 {: .lead }
 
-This space is a brief introduction to my background and work. More details will be added as they become available.
+Yu has more than eight years of experience in asset allocation, quantitative analysis, and financial risk management. He hopes to use this experience to support technology that improves the economics of Japanese agriculture.
 {: .intro-note }
 
 [Read more about me ↗]({{ '/about/' | relative_url }}){: .text-link }
